@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-mecaniques-de-jeu/4a-attributs-des-personnages/traits-de-caractere/ambitieux/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/4-mecaniques-de-jeu/4a-attributs-des-personnages/traits-de-caractere/ambitieux/"}
 ---
 
 >[!grid] 
