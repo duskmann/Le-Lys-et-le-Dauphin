@@ -1,11 +1,20 @@
-@font-face {
-  font-family: 'fine_fraktur_B';
-  src: url('/src/site/styles/fine_fraktur_B.woff2') format('woff2');
-  /* Add other font formats as needed */
+body {
+  @font-face {
+    font-family: 'fine_fraktur_B';
+    src: url('/src/site/styles/fine_fraktur_B.woff2') format('woff2');
+    /* Add other font formats as needed */
+  }
+  h1 {
+    font-family: 'fine_fraktur_B', sans-serif; /* Fallback to sans-serif if the custom font fails to load */
+  }
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
 }
 
-h1 {
-  font-family: 'fine_fraktur_B', sans-serif; /* Fallback to sans-serif if the custom font fails to load */
-}
 
 
