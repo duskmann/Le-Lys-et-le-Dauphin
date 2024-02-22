@@ -1,13 +1,13 @@
+// Define font variables
+$font-family: 'Recursive', sans-serif;
+$font-weight: 400;
+$font-color: #000;
+$font-size: 12px;
+
+// Apply styles to body text
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  font-family: $font-family;
+  font-weight: $font-weight;
+  color: $font-color;
+  font-size: $font-size;
 }
