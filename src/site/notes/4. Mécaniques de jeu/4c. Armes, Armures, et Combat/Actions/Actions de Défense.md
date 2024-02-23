@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/4-mecaniques-de-jeu/4c-armes-armures-et-combat/actions/actions-de-defense/"}
+---
+
+
+| Action | Coût (PA) | Description | Notes |
+| :--: | :--: | ---- | :--- |
+| Parade | 1 | Utiliser une arme en main pour bloquer une attaque | - Ne peut parer qu'une seule attaque par ennemi<br>- Chaque parade supplémentaire (sur des attaques d'autres ennemis) : **-25 %** par attaquant<br><br> |
+| Parade avec bouclier | 1 | Parade avec bouclier | - Ne peut parer qu'une seule attaque par ennemi<br>- Chaque parade supplémentaire (sur des attaques d'autres ennemis) : **-25 %** par attaquant |
+| Se libérer d'une emprise | 2 | Permet se se libérer d'une manoeuvre Immobiliser | - Jet opposé : [[4. Mécaniques de jeu/4a. Attributs des personnages/Attributs Principaux/Force\|FOR]] **x 5** |
+| Esquiver | 1 | Eviter une attaque en faisant un jet d'[[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Esquive\|Esquive]] | - Peut esquiver de multiples attaques par ennemi<br>- 1 jet d'[[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Esquive\|Esquive]] par attaque |
+| Zigzaguer | 2 | Se déplacer en zigzag ou dúne manière imprévisible pour esquiver un tir de missile | - A Effectuer avant une attaque à distance<br>- [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Course à pied\|Course à pied]] **x 0.5**<br>- Si réussi, le jet d'attaque se fait à **x 0.5** |
+| Défense patiente | 2 | Effectuer une seule action défensive lors du round, mais avec un pourcentage de chance plus élevé | - Une action défensive avec un coût de 1PA, effectué avec **+ 50%** |
+| Carapace de bouclier | 1 | Rapproche le plus possible le bouclier du corps, afin de se protéger au maximum des attaques ennemies. | - Les zones couvertes par le bouclier le sont.<br>- Plus difficile d'activement parer une attaque: Parade avec bouclier **x 0.5**<br>- Plus difficile d'attaquer: **Attaque x 0.5** |
+| Se mettre à couvert | 2 | Faire un jet de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Saut\|Saut]] pour se réfugier à couvert d'une attaque à distance. | - A effectuer avant une attaque à distance<br>- Jet de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Saut\|Saut]]<br>- Tout jet qui touche la zone couverte est ignoré |
+| Se mettre en retraite | 1 | Abandonner une mêlée en faisant un jet de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Pugilat\|Pugilat]] | - Jet de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Pugilat\|Pugilat]]<br>- Si réussi, peut se libérer de son adversaire suffisamment loin pour effectuer des actions normalement. |
