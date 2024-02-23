@@ -1,13 +1,14 @@
+@font-face {
+  font-family: 'fine_fraktur_B' !important;
+  src: url('/src/site/styles/fine_fraktur_B.ttf');
+  /* Add other font formats as needed */
+}
+
 body {
   background-color: white;
       .content {
        font-size: 14px;
       }
-    @font-face {
-  font-family: 'fine_fraktur_B';
-  src: url('/src/site/styles/fine_fraktur_B.woff2') format('woff2');
-  /* Add other font formats as needed */
-}
 h1 {
   font-family: 'fine_fraktur_B', sans-serif !important; /* Fallback to sans-serif if the custom font fails to load */
 }
