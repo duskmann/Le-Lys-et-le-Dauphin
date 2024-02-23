@@ -28,3 +28,11 @@ Pour simplifier le jeu, **tous les montants seront exprimés en unités de compt
 >| Denier (d) | 1/240 | 1/12 | 1      |
 
 
+>[!quote] Test 
+>Est-ce que c'est du Fraktur?
+
+
+
+
+
+
