@@ -1,18 +1,21 @@
 @font-face {
-  font-family: 'fine_fraktur_B' !important;
-  src: url("src/site/styles/fine_fraktur_B.ttf") format('truetype');
+  font-family: 'fine_fraktur_B';
+  src: url("fine_fraktur_B.ttf") format('truetype'); 
   /* Add other font formats as needed */
 }
 
 body {
   background-color: white;
-      .content {
-       font-size: 12px;
-      }
+}
+
+.content {
+  font-size: 14px;
+}
+
 h1 {
-  font-family: 'fine_fraktur_B', serif !important; /* Fallback to serif if the custom font fails to load */
+  font-family: 'fine_fraktur_B', sans-serif !important; /* Removed !important */
 }
-}
+
 
 
 
