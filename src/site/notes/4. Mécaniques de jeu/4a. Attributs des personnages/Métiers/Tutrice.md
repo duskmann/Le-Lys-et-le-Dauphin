@@ -11,7 +11,7 @@ Des dames des classes nobles inférieures chargées de prendre soin de la fille 
 ---
 
 >[!success] Compétences Primaires
-> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Etiquette de Cour\|Etiquette de Cour]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Découverte\|Découverte]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Furtivité\|Furtivité]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Enseignement\|Enseignement]] 
+> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Protocole\|Protocole]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Découverte\|Découverte]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Furtivité\|Furtivité]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Enseignement\|Enseignement]] 
 
 >[!hint] Compétences Secondaires
 > [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Commandement\|Commandement]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Artisanat\|Artisanat]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Empathie\|Empathie]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Premiers Soins\|Premiers Soins]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Langue étrangère\|Langue étrangère]] (au choix) / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Ecoute\|Ecoute]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Mémoire\|Mémoire]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Savoir Botanique\|Savoir Botanique]]  
