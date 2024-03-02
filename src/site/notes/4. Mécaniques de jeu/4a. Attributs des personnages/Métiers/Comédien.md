@@ -12,7 +12,7 @@ Tous les artistes qui gagnent leur vie en utilisant leurs talents d'acteur, en j
 ---
 
 >[!success] Compétences Primaires
-> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Camouflage\|Camouflage]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Empathie\|Empathie]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Mémoire\|Mémoire]] 
+> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Déguisement\|Déguisement]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Empathie\|Empathie]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Mémoire\|Mémoire]] 
 
 >[!hint] Compétences Secondaires
 > [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Conduite\|Conduite]] (Wagon) / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Langue étrangère\|Langue étrangère]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Légendes\|Légendes]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Ecoute\|Ecoute]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Escamotage\|Escamotage]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Enseignement\|Enseignement]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Théologie\|Théologie]] / 1 Arme de Roturier 
