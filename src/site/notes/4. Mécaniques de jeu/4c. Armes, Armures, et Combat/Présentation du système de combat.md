@@ -29,8 +29,8 @@ De cette manière, ceux qui ont obtenu l'initiative la plus élevée savent ce q
 Chaque personnage obtient **2 points d'action (PA) par round** pour composer son choix d'actions. La plupart des actions sont dites *courtes*, et coûtent 1 PA. Les actions dites *longues* coûtent 2 PA. 
 
 >[!help] Initiative égale
-Si un PC et un PNJ obtiennent le même résultat pour l'Initiative, on considère que le PC a la meilleure initiative, car les PC ont la préférence sur les PNJ. 
-En cas d'égalité entre deux PC ou deux PNJ, celui qui a le plus de points de Perception obtient l'initiative la plus élevée ; si les deux ont la même valeur de Perception, ils agissent en même temps.
+Si un PJ et un PNJ obtiennent le même résultat pour l'Initiative, on considère que le PJ a la meilleure initiative, car les PJ ont la préférence sur les PNJ. 
+En cas d'égalité entre deux PJ ou deux PNJ, celui qui a le plus de points de Perception obtient l'initiative la plus élevée ; si les deux ont la même valeur de Perception, ils agissent en même temps.
 ##### 2. Phase d'action
 
 La phase d'action se déroule en **commençant par le le joueur ayant l'initiative la plus élevée**. Ainsi, les personnages avec une initiative élevée sont en mesure d'agir avant les autres, et peuvent potentiellement les surprendre ou les empêcher d'effectuer leurs actions.
@@ -42,6 +42,8 @@ Les [[4. Mécaniques de jeu/4c. Armes, Armures, et Combat/Actions/Actions de Dé
 >[!help] Actions invalidées
 >Si une action précédente rend une autre action impossible, cette action est perdue et ne peut être utilisée.
 >**Exemple :** Un personnage est désarmé avant d'avoir pouvoir effectué son action Attaquer. Son action est perdue pour ce round.
+
+_Pour le détail du déroulé de la phase d'action, voir la page [[4. Mécaniques de jeu/4c. Armes, Armures, et Combat/Déroulé d'une attaque\|Déroulé d'une attaque]]_
 
 ##### 3. Conclusion
 
