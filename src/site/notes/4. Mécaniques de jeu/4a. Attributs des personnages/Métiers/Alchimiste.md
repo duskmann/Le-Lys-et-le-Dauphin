@@ -27,3 +27,6 @@ Cette profession représente non seulement le patient alchimiste, qui s'affaire 
 ***Attributs minimum*** : *[[4. Mécaniques de jeu/4a. Attributs des personnages/Attributs Principaux/Culture\|Culture]] 20*
 
 ***Autres restrictions*** : *Aucune*
+
+[[4. Mécaniques de jeu/4a. Attributs des personnages/Métiers/Garde\|Garde]]
+
