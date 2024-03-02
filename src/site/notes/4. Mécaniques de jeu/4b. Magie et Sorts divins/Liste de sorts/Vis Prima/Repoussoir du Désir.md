@@ -9,7 +9,7 @@
 
 **Nature**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Nature des sorts/Magie noire\|Magie noire]]
 **Origine**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Origine des sorts/Folklorique\|Folklorique]]
-**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Malédiction\|Malédiction]]
+**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Maledictum\|Maledictum]]
 
 **Durée**:: Permanent tant que personne ne touche aux composants du sort.
 **Expiration**:: Tant que le sort n'est pas rompu.
