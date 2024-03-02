@@ -11,10 +11,10 @@ Le bouffon semble souvent frappé de folie lorsqu'il danse de façon grotesque, 
 ---
 
 >[!success] Compétences Primaires
->[[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Camouflage\|Camouflage]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Saut\|Saut]]  / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Escamotage\|Escamotage]] 
+>[[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Déguisement\|Déguisement]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Saut\|Saut]]  / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Escamotage\|Escamotage]] 
 
 >[!hint] Compétences Secondaires
-> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Escalade\|Escalade]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Dissimulation\|Dissimulation]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Etiquette de Cour\|Etiquette de Cour]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Jeux\|Jeux]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Musique\|Musique]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Course à pied\|Course à pied]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Furtivité\|Furtivité]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Lancer\|Lancer]] 
+> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Escalade\|Escalade]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Dissimulation\|Dissimulation]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Protocole\|Protocole]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Jeux\|Jeux]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Musique\|Musique]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Course à pied\|Course à pied]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Furtivité\|Furtivité]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Lancer\|Lancer]] 
 
 >[!question] Salaire mensuel 
 > [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] ou [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Saut\|Saut]] x 0,25 
