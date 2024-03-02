@@ -79,6 +79,9 @@ Voir [[4. Mécaniques de jeu/4c. Armes, Armures, et Combat/Armures\|Armures]]
 | Cheval             | Cheval léger, propre à être monté                           | 1500        |
 | Cheval de guerre   | Cheval entrâiné à la guerre, qui reste calme même en combat | 3500        |
 | Location de cheval | Par jour, par cheval. Les mules sont moitié moins chères    | 6           |
+| Charrette          |                                                             | 360         |
+| Petit wagon        |                                                             | 1000        |
+| Grand Wagon        |                                                             | 7000        |
 #### Equipement
 
 | Objet                              | Description                                                                                              | Coût (sous) |
