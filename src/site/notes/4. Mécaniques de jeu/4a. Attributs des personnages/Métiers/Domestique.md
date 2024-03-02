@@ -11,7 +11,7 @@ Il s'agit de l'individu qui effectue tout type de travail servile : préparation
 ---
 
 >[!success] Compétences Primaires
-> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Artisanat\|Artisanat]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Etiquette de Cour\|Etiquette de Cour]]  / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Savoir Botanique\|Savoir Botanique]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Furtivité\|Furtivité]] 
+> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Artisanat\|Artisanat]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Protocole\|Protocole]]  / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Savoir Botanique\|Savoir Botanique]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Furtivité\|Furtivité]] 
 
 >[!hint] Compétences Secondaires
 > [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Commerce\|Commerce]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Escamotage\|Escamotage]]  / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Jeux\|Jeux]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Saut\|Saut]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Ecoute\|Ecoute]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Course à pied\|Course à pied]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Goût\|Goût]] / 1 Arme de Roturier 
