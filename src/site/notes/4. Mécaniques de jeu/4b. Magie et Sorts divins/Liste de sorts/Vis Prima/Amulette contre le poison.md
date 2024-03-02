@@ -9,7 +9,7 @@
 
 **Nature**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Nature des sorts/Magie blanche\|Magie blanche]]
 **Origine**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Origine des sorts/Alchimique\|Alchimique]]
-**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Amulette\|Amulette]]
+**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Amuletum\|Amuletum]]
 
 **Durée**:: 1 heure
 **Expiration**:: Jamais
