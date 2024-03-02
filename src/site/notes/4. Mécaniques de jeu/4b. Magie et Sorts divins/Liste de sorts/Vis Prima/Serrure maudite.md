@@ -9,7 +9,7 @@
 
 **Nature**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Nature des sorts/Magie noire\|Magie noire]]
 **Origine**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Origine des sorts/Folklorique\|Folklorique]]
-**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Onguent\|Onguent]]
+**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Unguentum\|Unguentum]]
 
 **Durée**:: Permanent, jusqu'à ce que la serrure soit brisée ou la malédiction levée.
 **Expiration**:: 1D3 semaines
