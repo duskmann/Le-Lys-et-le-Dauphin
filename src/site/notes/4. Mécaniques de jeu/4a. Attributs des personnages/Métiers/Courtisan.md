@@ -11,7 +11,7 @@ Par courtisan, nous entendons le groupe de personnes qui entourent un grand nobl
 ---
 
 >[!success] Compétences Primaires
-> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Empathie\|Empathie]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Etiquette de Cour\|Etiquette de Cour]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Séduction\|Séduction]] 
+> [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Empathie\|Empathie]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Protocole\|Protocole]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Séduction\|Séduction]] 
 
 >[!hint] Compétences Secondaires
 > [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Droit\|Droit]]  / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Découverte\|Découverte]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Langue étrangère\|Langue étrangère]] (au choix) / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Ecoute\|Ecoute]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Lire et Ecrire\|Lire et Ecrire]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Furtivité\|Furtivité]] / 1 Arme de Noble  
