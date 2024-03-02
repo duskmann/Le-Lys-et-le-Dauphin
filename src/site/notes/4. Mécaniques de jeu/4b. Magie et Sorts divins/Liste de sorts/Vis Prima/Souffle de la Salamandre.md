@@ -9,7 +9,7 @@
 
 **Nature**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Nature des sorts/Magie blanche\|Magie blanche]]
 **Origine**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Origine des sorts/Alchimique\|Alchimique]]
-**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Malédiction\|Malédiction]]
+**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Maledictum\|Maledictum]]
 
 **Durée**:: 6 tours
 **Expiration**:: -
