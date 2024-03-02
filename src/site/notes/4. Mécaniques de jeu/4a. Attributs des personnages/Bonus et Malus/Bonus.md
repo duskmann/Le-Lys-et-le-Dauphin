@@ -140,7 +140,7 @@ Coûts :
 Si l’ami est Bourgeois ou de la Basse Noblesse : 1 point  
 Si l’ami est de la Haute Noblesse : 2 points
 
-On suppose ici que la zone d’influence de l’ami est une ville, ou une petite partie d’un royaume – une baronnie ou un comté par exemple. Si l’influence de l’ami s’étend sur l’ensemble d’un royaume, multipliez le coût en points x2.
+On suppose ici que la zone d’influence de l’ami est une ville, Si l’influence de l’ami s’étend sur l’ensemble d’un royaume, multipliez le coût en points x2.
 
 #### Don pour les langues (+1)
 
@@ -240,7 +240,7 @@ Ce personnage peut aisément expliquer des concepts complexes aux autres, et est
 
 Ce personnage a eu une chance incroyable, et a hérité ou gagné une somme importante d’argent, bien plus que la normale pour sa classe sociale. Cet argent doit être entièrement dépensé en équipement ou en biens/immobilier avant le début de la partie.
 
-Chaque point de bonus donne 1000 sous en plus.
+Chaque point de bonus donne 500 sous en plus.
 
 #### Mémoire eidétique (+1)
 
