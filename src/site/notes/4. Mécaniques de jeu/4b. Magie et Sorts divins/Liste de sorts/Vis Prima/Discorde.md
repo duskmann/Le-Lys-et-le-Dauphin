@@ -9,7 +9,7 @@
 
 **Nature**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Nature des sorts/Magie noire\|Magie noire]]
 **Origine**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Origine des sorts/Alchimique\|Alchimique]]
-**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Potion\|Potion]]
+**Type**:: [[4. Mécaniques de jeu/4b. Magie et Sorts divins/Types de sorts/Potio\|Potio]]
 
 **Durée**:: 2D10 jours
 **Expiration**:: 1D6 jours
