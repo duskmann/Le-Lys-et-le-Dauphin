@@ -104,7 +104,7 @@ Ces jets peuvent être variés, et reflètent les diverses façons par lesquelle
 
 >[!tip|bg-c-yellow] Scénario 2 : Convaincre le Bailli 
 >- Vous tentez d'impressionner le bailli avec votre connaissance des grandes familles seigneuriales de la région
->	*Jet de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Mémoire\|Mémoire]] ou d'[[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Etiquette de Cour\|Etiquette de Cour]]*
+>	*Jet de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Mémoire\|Mémoire]] ou de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Protocole\|Protocole]]*
 >- Vous proposez de protéger le bailli de la colère de la foule alors qu'il s'apprête à rendre justice dans une affaire particulièrement tendue.
 >	*Jet de [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Commandement\|Commandement]]*
 >- Vous concoctez un remède pour sa fille souffrante de maux de ventre.
