@@ -11,7 +11,7 @@ Le charlatan est l'un des nombreux filous qui prolifèrent au Moyen Âge. Cet es
 ---
 
 >[!success] Compétences Primaires
->[[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Commerce\|Commerce]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Conduite\|Conduite]] (wagon) OU [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Equitation\|Equitation]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Camouflage\|Camouflage]]  
+>[[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Commerce\|Commerce]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Conduite\|Conduite]] (wagon) OU [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Equitation\|Equitation]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Eloquence\|Eloquence]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Déguisement\|Déguisement]]  
 
 >[!hint] Compétences Secondaires
 > [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Alchimie\|Alchimie]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Empathie\|Empathie]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Esquive\|Esquive]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Langue étrangère\|Langue étrangère]] (au choix) / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Savoir Botanique\|Savoir Botanique]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Course à pied\|Course à pied]] / [[4. Mécaniques de jeu/4a. Attributs des personnages/Compétences/Escamotage\|Escamotage]] / 1 Arme de Roturier
